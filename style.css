@@ -1,0 +1,48 @@
+body {
+  margin: 0px;
+  background-color: #2a363b;
+  background-image: url(5.jpeg);
+  background-size: cover;
+}
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+}
+
+.container {
+  height: 600px;
+  width: 600px;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+}
+
+p {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+p,
+ul {
+  color: white;
+  margin-left: 60px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+input {
+  margin-left: 60px;
+}
+
+li {
+  font-size: 20px;
+}
